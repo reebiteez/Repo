@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0AAB-CF0E
+
+ Directory of C:\Users\mreot\Desktop\project
+
+23/11/2017  11:28    <DIR>          .
+23/11/2017  11:28    <DIR>          ..
+23/11/2017  11:28                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,453,597,184 bytes free
